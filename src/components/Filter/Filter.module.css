@@ -1,0 +1,25 @@
+.Form {
+  display: flex;
+  flex-direction: column;
+  width: 400px;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  padding: 8px;
+  box-shadow: 0px 2px 3px 1px rgba(0, 0, 0, 0.3);
+}
+
+.Label {
+  padding-top: 5px;
+  font-size: 18px;
+}
+
+.Input {
+  display: flex;
+  width: 100%;
+  font-size: 18px;
+  height: 40px;
+  padding: 0;
+  margin-bottom: 10px;
+  border-radius: 5px;
+  border: 1px solid grey;
+}
